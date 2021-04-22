@@ -1,0 +1,10 @@
+body {
+  background-color: beige;
+}
+img {
+  border-radius: 100%;
+}
+a {
+  text-decoration: none;
+  color: inherit;
+}
