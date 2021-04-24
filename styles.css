@@ -8,3 +8,6 @@ a {
   text-decoration: none;
   color: inherit;
 }
+form {
+  line-height: 2rem;
+}
