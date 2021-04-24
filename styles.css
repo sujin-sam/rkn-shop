@@ -11,3 +11,8 @@ a {
 form {
   line-height: 2rem;
 }
+hr {
+  border-style: dotted none none;
+  border-width: 0.4rem;
+  width: 5%;
+}
